@@ -39,7 +39,7 @@
     },
     {
       "id": "custom-json-data",
-      "versionRange": "^0.17.0",
+      "versionRange": "^0.16.0",
       "additionalData": {
         "private": true
       }
