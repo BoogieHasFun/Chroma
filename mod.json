@@ -11,12 +11,12 @@
   "coverImage": "cover.png",
   "dependencies": [
     {
-      "version": "^0.5.2",
+      "version": "^0.6.0",
       "id": "tracks",
       "downloadIfMissing": "https://github.com/StackDoubleFlow/Tracks/releases/download/v0.5.1/tracks.qmod"
     },
     {
-      "version": "^0.16.0",
+      "version": "^0.17.0",
       "id": "custom-json-data",
       "downloadIfMissing": "https://github.com/StackDoubleFlow/CustomJSONData/releases/download/v0.16.0/custom-json-data.qmod"
     }
