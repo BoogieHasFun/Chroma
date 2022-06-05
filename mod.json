@@ -11,7 +11,7 @@
   "coverImage": "cover.png",
   "dependencies": [
     {
-      "version": "^0.5.1",
+      "version": "^0.5.2",
       "id": "tracks",
       "downloadIfMissing": "https://github.com/StackDoubleFlow/Tracks/releases/download/v0.5.1/tracks.qmod"
     },
