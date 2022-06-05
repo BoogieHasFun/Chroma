@@ -100,7 +100,7 @@ jobs:
       with:
         name: ${{ steps.libname.outputs.NAME }}
         path: ./build/${{ steps.libname.outputs.NAME }}
-        if-no-files-found: warning
+        if-no-files-found: warn
 
     - name: Upload qmod artifact
       uses: actions/upload-artifact@v2
