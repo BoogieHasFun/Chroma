@@ -106,7 +106,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: ${{env.qmodName}}.qmod
-        path: ./${{ env.qmodName }}.qmod
+        path: ./home/runner/work/Chroma/Chroma/build/${{ env.qmodName }}.qmod
         if-no-files-found: error
 
         # TODO: NEEDED?
